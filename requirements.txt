@@ -1,0 +1,6 @@
+streamlit
+transformer
+torch
+BartTokenizer
+requests
+streamlit run app.py
